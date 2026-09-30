@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "notes": {
+      "command": "/Users/saurabh/learning_projects/agentic_web_app/.venv/bin/python",
+      "args": ["-m", "app.mcp_server"],
+      "cwd": "/Users/saurabh/learning_projects/agentic_web_app"
+    }
+  }
+}

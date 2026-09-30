@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Label</key>
+	<string>com.agenticwebapp.bangalore-temp</string>
+	<key>ProgramArguments</key>
+	<array>
+		<string>/Users/saurabh/learning_projects/agentic_web_app/.venv/bin/python</string>
+		<string>/Users/saurabh/learning_projects/agentic_web_app/scripts/log_bangalore_temp.py</string>
+	</array>
+	<key>WorkingDirectory</key>
+	<string>/Users/saurabh/learning_projects/agentic_web_app</string>
+	<key>StartInterval</key>
+	<integer>3600</integer>
+	<key>RunAtLoad</key>
+	<true/>
+	<key>StandardOutPath</key>
+	<string>/Users/saurabh/learning_projects/agentic_web_app/data/bangalore_temp.log</string>
+	<key>StandardErrorPath</key>
+	<string>/Users/saurabh/learning_projects/agentic_web_app/data/bangalore_temp.err</string>
+</dict>
+</plist>
